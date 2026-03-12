@@ -364,7 +364,7 @@ if __name__ == "__main__":
 # What This Project Teaches
 
 
-| Lesson | Technique             |
+| Concept | Technique             |
 | ------ | --------------------- |
 | 1      | Line plots, box plots |
 | 2      | Trend + seasonality   |
