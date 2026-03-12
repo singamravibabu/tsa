@@ -363,7 +363,6 @@ if __name__ == "__main__":
 
 # What This Project Teaches
 
-Running the project reproduces all the **EDA techniques from the PPT**:
 
 | Lesson | Technique             |
 | ------ | --------------------- |
